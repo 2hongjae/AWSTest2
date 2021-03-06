@@ -1,4 +1,4 @@
-package com.test.awstest.web;
+package com.test.awstest;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
